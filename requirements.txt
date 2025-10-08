@@ -1,5 +1,2 @@
-# টেলিগ্রাম বটের জন্য লাইব্রেরি
-pip install python-telegram-bot
-
-# ফেক ডেটা জেনারেট করার জন্য প্রধান লাইব্রেরি
-pip install Faker
+pip3 install python-telegram-bot
+pip3 install Faker
